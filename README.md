@@ -1,0 +1,1 @@
+# C-Day-39-Smallest-Digit
